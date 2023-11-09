@@ -1,0 +1,18 @@
+Admin Detail:
+-------------
+https://saharahospitalgwalior.in/wp-admin
+User: saharahospital
+Pass: saharahospital@12345
+
+FTP Details:
+------------
+host: 164.52.207.64
+user: sahara@saharahospitalgwalior.in
+password: (PsAat8MujqJ
+
+DB detail:
+----------
+DB name: trackhotdeals_sahara
+password: #q4[G$oqkjy{
+username: trackhotdeals_sahara_usr
+host: 164.52.207.64
