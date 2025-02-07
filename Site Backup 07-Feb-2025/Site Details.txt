@@ -1,0 +1,9 @@
+https://saharahospitalgwalior.in/
+User: saharahospital
+Pass: saharahospital@12345
+
+FTP:
+------
+host: 164.52.207.64
+user: sahara@saharahospitalgwalior.in
+password: (PsAat8MujqJ
